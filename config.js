@@ -16,9 +16,8 @@ window.Config = {
   // UptimeRobot Api Keys
   // Support both Monitor-Specific and  Read-Only type's Api Key
   ApiKeys: [
-    'm783399407-b5654044806678e2a377de7f',
-    'm783399409-ec794f627ab64b259503f034',
-    'm783491939-22f42834a494fc3eadf69059',
+    'm789912221-5aedbf82715aeea4a93939da',
+    'm789912253-9fd8fb37fb05d92a83577340',
   ],
 
   // if shows monitored site's URL
@@ -33,7 +32,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://51sec.org/'
+      url: 'https://comingsoon.org/'
     },
     {
       text: 'GitHub',
